@@ -19,4 +19,7 @@ This project uses the TextBlob library to perform sentiment analysis on user-pro
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-project.git
+   git clone https://github.com/kenishakaushal/sentiment-analysis-project.git
+
+### Key Addition:
+- **Acknowledgments**: 'https://www.youtube.com/@Indently'
